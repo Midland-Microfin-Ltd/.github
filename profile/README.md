@@ -1,5 +1,3 @@
-# <img src="/mnt/data/Logo-1.png" width="160"/>
-
 # Midland Microfin Ltd
 ### *Beyond Microfinance*
 
